@@ -1,5 +1,6 @@
 
-<img width="2560" height="1440" alt="Дизайн без названия" src="https://github.com/user-attachments/assets/9cad2192-eb95-42f1-9f93-72a8e146a60a" />
+<img width="2560" height="1440" alt="Presnyakova" src="https://github.com/user-attachments/assets/8def03fa-ccbd-46dc-bcc0-d9a634cd10ff" />
+
 
 
 
