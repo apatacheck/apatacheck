@@ -1,5 +1,7 @@
 
-<img width="600" height="200" alt="Discount Up To (1)" src="https://github.com/user-attachments/assets/bb8c85ae-1e08-453d-8e3d-fac4bfc08ac1" />
+<img width="2560" height="1440" alt="Дизайн без названия" src="https://github.com/user-attachments/assets/9cad2192-eb95-42f1-9f93-72a8e146a60a" />
+
+
 
 
 
